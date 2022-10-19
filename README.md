@@ -30,7 +30,7 @@ The current features are :
 1. From your projects root folder in terminal run:
 
 ```bash
-composer require Chalna/web-installer
+composer require chalna/web-installer
 ```
 
 2. Register the package
