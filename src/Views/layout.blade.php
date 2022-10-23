@@ -17,7 +17,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-8">
                     <div class="breadcrumb-text">
                         <a class="brand-logo" href="javascript:void(0)"><img src="{{ asset('installer/assets/images/logo.png') }}" alt="logo" /></a>
-                        <h2>{{__('Chalna - Clinic & Diagnostic Management System')}}</h2>
+                        <h2>{{__('Chalna Healthcare Clinic & Diagnostic Management System Installer')}}</h2>
                         <p>{{ \Carbon\Carbon::parse(now())->format('l, j F Y') }}</p>
                     </div>
                 </div>
